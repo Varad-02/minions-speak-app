@@ -30,4 +30,14 @@ h1 {
     border-bottom-right-radius: 1rem;
     padding: 2rem;
     padding-top: 3rem;
+    color: white;
+}
+
+.container {
+    padding: 0rem 1rem;
+}
+
+.container-center {
+    max-width: 600px;
+    margin: auto;
 }
